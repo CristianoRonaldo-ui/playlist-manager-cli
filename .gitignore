@@ -5,3 +5,4 @@ venv/
 .vscode/
 .DS_Store 
 .pytest_cache/ 
+playlist_data.json
